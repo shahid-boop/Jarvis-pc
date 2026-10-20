@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="jarvis_status_online">SYSTEM ONLINE // PROTOCOL ACTIVE</string>
+    <string name="jarvis_status_listening">AUDIO RECEPTORS LISTENING…</string>
+    <string name="jarvis_status_processing">NEURAL CORE PROCESSING…</string>
+    <string name="jarvis_status_speaking">TRANSMITTING AUDIO SYNTHESIS…</string>
+    <string name="jarvis_status_ready">STANDBY // READY FOR COMMAND</string>
+</resources>
